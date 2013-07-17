@@ -1,7 +1,7 @@
-StackEdit Download Proxy
-========================
+StackEdit Picasa Proxy
+======================
 
-Download proxy for StackEdit. Allows StackEdit to open any URL using CORS.
+Picasa proxy for StackEdit. Allows StackEdit to use Picasa Web Albums Data API (v2.0).
 
 **Usage:**
 
@@ -18,7 +18,7 @@ Deploy on Heroku
 
  - Rename the application:
 
-		heroku apps:rename stackedit-download-proxy
+		heroku apps:rename stackedit-picasa-proxy
 
  - Push changes to Heroku:
 
